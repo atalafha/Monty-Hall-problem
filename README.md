@@ -13,7 +13,7 @@ This Shiny app aims to offer a dynamic and interactive way to explore the Monty 
 
 ## Contents:
 
-app.R: Shiny app main scripts.
+MontyHallShinyApp.R: Shiny app main scripts.
 
 # How to Use
 
