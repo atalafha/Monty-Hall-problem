@@ -1,4 +1,4 @@
-# Classroom-Teaching-
+# Classroom-Teaching
 Monty Hall Problem: Shiny App Simulation
 
 # Introduction
