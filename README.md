@@ -24,7 +24,7 @@ Other required R packages: shiny, shinydashboard, ggplot2
 
 ## Setup:
 
-Clone the repository: git clone https://github.com/talafha90/MontyHallShinyApp.git
+Clone the repository: git clone https://github.com/talafha90/Classroom-Teaching-/blob/main/MontyHallShinyApp.R
 Navigate to the repository folder: cd MontyHallShinyApp
 Run the Shiny app: shiny::runApp()
 App Features
